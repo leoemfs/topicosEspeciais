@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Revisão</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <script src="js/scipt.js"></script>
+</head>
+<body>
+    <div class="container bg-gray">
+        <div class="row card mt-5">
+            <h1>Revisão Topicos Especiais de sistemas</h1>
+            <h2>Abra o Console para visualizar.</h2>
+        </div>
+        <!--<div class="row card mt-3">
+            <h3>JavaScript</h3>
+            <p> Com o JavaScript podemos manipular o DOM<br>
+                ->Metodos seletores, alguns exemplos dos muitos que tem...<br>
+                getElementById();<br>
+                getElementByClassName();
+                <br>
+                ->Eventos<br>
+                onclick="function()";
+                <br>
+            </p>
+            <h3>Variaveis VAR e LET e CONST em JavaScript</h3>
+            <p> ->VAR: Escopo global, isto é visivel para todo o documento<br>
+                ->LET: Escopo bloco, isto é visivel para aquele bloco de execção<br>
+                ->CONST: Variavel com um valor setado que não podera ser alterado, isto é, constante<br>
+            </p>
+            <h3>Laços de repetição em JavaScript</h3>
+            <p> ->FOR <br>
+                ->WHILE <br>
+                ->DO/WHILE <br>
+                -> FOR/IN <br>
+                ->BREAK/CONTINUE<br>
+                <br>
+                ->Exemplos no CONSOLE...
+            </p>
+        </div>-->
+    </div>
+</body>
+</html>
